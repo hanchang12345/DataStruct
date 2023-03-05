@@ -1,0 +1,6 @@
+﻿  栈和队列.cpp
+D:\code\DataStruct\栈和队列\栈和队列\栈和队列.cpp(1,1): warning C4828: 文件包含在偏移 0x601 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\code\DataStruct\栈和队列\栈和队列\栈和队列.cpp(48,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\code\DataStruct\栈和队列\栈和队列\栈和队列.cpp(74,5): error C2601: “PushStack”: 本地函数定义是非法的
+D:\code\DataStruct\栈和队列\栈和队列\栈和队列.cpp(61): message : 此行有一个“{”没有匹配项
+D:\code\DataStruct\栈和队列\栈和队列\栈和队列.cpp(61): fatal  error C1075: “{”: 未找到匹配令牌
